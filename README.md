@@ -46,6 +46,7 @@ Install *pymt* using the *conda* package manager,
 
 A big thanks to those that contributed notebooks to this clinic.
 
+*  Jordan Adams
 *  Katy Barnhart
 *  Nicole Gasparini
 *  Albert Kettner
