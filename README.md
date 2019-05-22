@@ -1,11 +1,11 @@
-# pymt
+# 💥💥 pymt 💥💥
 
 Code, and Jupyter Notebook examples for the **pymt** clinic held at the
 [2019 CSDMS Annual Meeting](https://csdms.colorado.edu/wiki/CSDMS_meeting_2019),
 May 21-23, in Boulder, Colorado.
 
 
-## Links
+## Links 🔗
 
 * [Community Surface Dynamics Modeling System
   (CSDMS)](http://csdms.colorado.edu)
@@ -24,6 +24,7 @@ Run a model or two in the *pymt*.
 1. Learn how to use a generic *pymt* model
 1. Run through some model tutorials by yourself
 1. Couple a couple of models
+1. 🍻
 
 ## The Requirements
 
@@ -35,13 +36,13 @@ Run a model or two in the *pymt*.
 * Optionally, a [GitHub](https://github.com) account, and `git` or
   GitHub Desktop
 
-## Get Started
+## Get Started 🚀
 
 Install *pymt* using the *conda* package manager,
 
     $ conda env create --file=environment.yml
 
-## Thank you!
+## Thank you! 🙌
 
 A big thanks to those that contributed notebooks to this clinic.
 
