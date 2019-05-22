@@ -40,3 +40,13 @@ Run a model or two in the *pymt*.
 Install *pymt* using the *conda* package manager,
 
     $ conda env create --file=environment.yml
+
+## Thank you!
+
+A big thanks to those that contributed notebooks to this clinic.
+
+*  Katy Barnhart
+*  Nicole Gasparini
+*  Margaux Mouchene
+*  Katherine Ratliff
+*  Kang Wang
