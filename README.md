@@ -48,6 +48,8 @@ A big thanks to those that contributed notebooks to this clinic.
 
 *  Katy Barnhart
 *  Nicole Gasparini
+*  Albert Kettner
 *  Margaux Mouchene
+*  Irina Overeem
 *  Katherine Ratliff
 *  Kang Wang
